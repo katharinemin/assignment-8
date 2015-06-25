@@ -1,0 +1,52 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+
+.container{
+	width:480px;
+	margin:0 auto;
+}
+
+#banner{
+	font-family: palatino;
+	height:120px;
+	padding-top:3%;
+	font-size:30pt;
+	background-color:#79E5DA;
+	opacity: .2;
+	text-align:center;
+}
+
+nav ul{
+	list-style: none;
+	padding:0px;
+	margin:0px;
+}
+
+nav ul li{
+	height:50px;
+	text-align:center;
+	padding-top:5%;
+	font-size:13pt;
+	color: grey;
+	border-bottom: solid 1px grey;
+	font-family: palatino;
+}
+nav ul li:hover{
+	background-color:#F696A5;
+}
+
+#mainArea {
+	margin-top:0px;
+	padding:0px;
+	font-size:13pt;
+	font-family: palatino;
+}
+
+img {
+	width: 90%;
+}
+
+
+

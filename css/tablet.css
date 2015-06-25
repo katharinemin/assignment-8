@@ -1,0 +1,54 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+
+.container{
+	width:768px;
+	margin:0 auto;
+}
+
+#banner{
+	height:150px;
+	padding-top:3%;
+	background-color:#79E5DA;
+	opacity: .2;
+	font-size:40pt;
+	text-align:center;
+	margin-top: 30px;
+	font-family: palatino;
+
+}
+
+nav ul{
+	list-style: none;
+	padding:0px;
+	margin:0px;
+
+}
+
+nav ul li{
+	height:50px;
+	text-align:center;
+	padding-top:5%;
+	font-size:13pt;
+	width:25%;
+	float:left;
+	color: grey;
+	border-bottom: solid 1px grey;
+	font-family: palatino;
+}
+
+
+#mainArea {
+	margin-top:50px;
+	padding:0px;
+	font-size:12pt;
+	font-family: palatino;
+]
+
+img{
+	width:25%;
+}
+
+
